@@ -1,0 +1,11 @@
+OrderID,Region,Category,SubCategory,Sales,Profit,Target
+1001,North,Technology,Laptops,2500,300,2200
+1002,South,Furniture,Chairs,1200,-100,1500
+1003,East,Office Supplies,Paper,400,50,350
+1004,West,Technology,Phones,1800,400,1600
+1005,North,Furniture,Tables,1500,-200,1700
+1006,South,Technology,Laptops,3000,500,2800
+1007,East,Office Supplies,Binders,600,100,500
+1008,West,Furniture,Sofas,2000,150,2100
+1009,North,Technology,Accessories,700,120,600
+1010,South,Office Supplies,Storage,800,80,700
